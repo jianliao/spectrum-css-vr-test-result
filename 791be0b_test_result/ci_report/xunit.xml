@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="BackstopJS" tests="24" failures="22" errors="22" skipped="0">
+    <testcase classname=".spectrum-CSSExample-example" name=" ›› illustratedmessage-light-medium"/>
+    <testcase classname=".spectrum-CSSExample-example.__n1" name=" ›› illustratedmessage-light-medium"/>
+    <testcase classname=".spectrum-CSSExample-example" name=" ›› typography-light-medium">
+      <failure message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example) component"/>
+      <error message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n1" name=" ›› typography-light-medium">
+      <failure message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example.__n1) component"/>
+      <error message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example.__n1) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n2" name=" ›› typography-light-medium">
+      <failure message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example.__n2) component"/>
+      <error message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example.__n2) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n3" name=" ›› typography-light-medium">
+      <failure message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example.__n3) component"/>
+      <error message="Design deviation ›› typography-light-medium (.spectrum-CSSExample-example.__n3) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n1" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n1) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n1) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n2" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n2) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n2) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n3" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n3) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n3) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n4" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n4) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n4) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n5" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n5) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n5) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n6" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n6) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n6) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n7" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n7) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n7) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n8" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n8) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n8) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n9" name=" ›› typography-deprecated-light-medium">
+      <failure message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n9) component"/>
+      <error message="Design deviation ›› typography-deprecated-light-medium (.spectrum-CSSExample-example.__n9) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n1" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n1) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n1) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n2" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n2) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n2) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n3" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n3) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n3) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n4" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n4) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n4) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n5" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n5) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n5) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n6" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n6) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n6) component"/>
+    </testcase>
+    <testcase classname=".spectrum-CSSExample-example.__n7" name=" ›› typography-international-light-medium">
+      <failure message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n7) component"/>
+      <error message="Design deviation ›› typography-international-light-medium (.spectrum-CSSExample-example.__n7) component"/>
+    </testcase>
+  </testsuite>
+</testsuites>
