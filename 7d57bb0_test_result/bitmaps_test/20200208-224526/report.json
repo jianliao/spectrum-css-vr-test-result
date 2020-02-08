@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_illustratedmessage-light-medium_0_spectrum-CSSExample-example_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_illustratedmessage-light-medium_0_spectrum-CSSExample-example_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_illustratedmessage-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "selector": ".spectrum-CSSExample-example",
         "fileName": "SpectrumCSS_illustratedmessage-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "label": "illustratedmessage-light-medium",
@@ -28,7 +28,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_illustratedmessage-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_illustratedmessage-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_illustratedmessage-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n1",
         "fileName": "SpectrumCSS_illustratedmessage-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "label": "illustratedmessage-light-medium",
@@ -52,7 +52,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-light-medium_0_spectrum-CSSExample-example_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-light-medium_0_spectrum-CSSExample-example_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "selector": ".spectrum-CSSExample-example",
         "fileName": "SpectrumCSS_typography-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "label": "typography-light-medium",
@@ -69,16 +69,16 @@
             "height": -1899
           },
           "misMatchPercentage": "0.28",
-          "analysisTime": 395
+          "analysisTime": 476
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-light-medium_0_spectrum-CSSExample-example_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-light-medium_0_spectrum-CSSExample-example_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n1",
         "fileName": "SpectrumCSS_typography-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "label": "typography-light-medium",
@@ -95,16 +95,16 @@
             "height": -317
           },
           "misMatchPercentage": "2.21",
-          "analysisTime": 283
+          "analysisTime": 263
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-light-medium_1_spectrum-CSSExample-example__n1_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-light-medium_1_spectrum-CSSExample-example__n1_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n2",
         "fileName": "SpectrumCSS_typography-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
         "label": "typography-light-medium",
@@ -121,16 +121,16 @@
             "height": -161
           },
           "misMatchPercentage": "3.58",
-          "analysisTime": 199
+          "analysisTime": 266
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-light-medium_2_spectrum-CSSExample-example__n2_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-light-medium_2_spectrum-CSSExample-example__n2_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n3",
         "fileName": "SpectrumCSS_typography-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
         "label": "typography-light-medium",
@@ -147,16 +147,16 @@
             "height": -163
           },
           "misMatchPercentage": "2.59",
-          "analysisTime": 220
+          "analysisTime": 227
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-light-medium_3_spectrum-CSSExample-example__n3_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-light-medium_3_spectrum-CSSExample-example__n3_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_0_spectrum-CSSExample-example_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_0_spectrum-CSSExample-example_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "selector": ".spectrum-CSSExample-example",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -173,16 +173,16 @@
             "height": -17578
           },
           "misMatchPercentage": "0.03",
-          "analysisTime": 955
+          "analysisTime": 882
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-deprecated-light-medium_0_spectrum-CSSExample-example_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-deprecated-light-medium_0_spectrum-CSSExample-example_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n1",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -199,7 +199,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n2",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -216,7 +216,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n3",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -233,7 +233,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n4",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -250,7 +250,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n5",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -267,7 +267,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n6",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -284,7 +284,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n7",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -301,7 +301,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_8_spectrum-CSSExample-example__n8_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_8_spectrum-CSSExample-example__n8_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_8_spectrum-CSSExample-example__n8_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n8",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_8_spectrum-CSSExample-example__n8_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -318,7 +318,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-deprecated-light-medium_9_spectrum-CSSExample-example__n9_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-deprecated-light-medium_9_spectrum-CSSExample-example__n9_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-deprecated-light-medium_9_spectrum-CSSExample-example__n9_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n9",
         "fileName": "SpectrumCSS_typography-deprecated-light-medium_9_spectrum-CSSExample-example__n9_0_test.png",
         "label": "typography-deprecated-light-medium",
@@ -335,7 +335,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_0_spectrum-CSSExample-example_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_0_spectrum-CSSExample-example_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "selector": ".spectrum-CSSExample-example",
         "fileName": "SpectrumCSS_typography-international-light-medium_0_spectrum-CSSExample-example_0_test.png",
         "label": "typography-international-light-medium",
@@ -352,16 +352,16 @@
             "height": -115
           },
           "misMatchPercentage": "14.52",
-          "analysisTime": 162
+          "analysisTime": 195
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_0_spectrum-CSSExample-example_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_0_spectrum-CSSExample-example_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n1",
         "fileName": "SpectrumCSS_typography-international-light-medium_1_spectrum-CSSExample-example__n1_0_test.png",
         "label": "typography-international-light-medium",
@@ -378,16 +378,16 @@
             "height": -1048
           },
           "misMatchPercentage": "8.11",
-          "analysisTime": 236
+          "analysisTime": 250
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_1_spectrum-CSSExample-example__n1_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_1_spectrum-CSSExample-example__n1_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n2",
         "fileName": "SpectrumCSS_typography-international-light-medium_2_spectrum-CSSExample-example__n2_0_test.png",
         "label": "typography-international-light-medium",
@@ -404,16 +404,16 @@
             "height": -935
           },
           "misMatchPercentage": "6.95",
-          "analysisTime": 376
+          "analysisTime": 401
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_2_spectrum-CSSExample-example__n2_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_2_spectrum-CSSExample-example__n2_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n3",
         "fileName": "SpectrumCSS_typography-international-light-medium_3_spectrum-CSSExample-example__n3_0_test.png",
         "label": "typography-international-light-medium",
@@ -430,16 +430,16 @@
             "height": -813
           },
           "misMatchPercentage": "5.42",
-          "analysisTime": 413
+          "analysisTime": 410
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_3_spectrum-CSSExample-example__n3_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_3_spectrum-CSSExample-example__n3_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n4",
         "fileName": "SpectrumCSS_typography-international-light-medium_4_spectrum-CSSExample-example__n4_0_test.png",
         "label": "typography-international-light-medium",
@@ -456,16 +456,16 @@
             "height": -216
           },
           "misMatchPercentage": "13.37",
-          "analysisTime": 344
+          "analysisTime": 367
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_4_spectrum-CSSExample-example__n4_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_4_spectrum-CSSExample-example__n4_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n5",
         "fileName": "SpectrumCSS_typography-international-light-medium_5_spectrum-CSSExample-example__n5_0_test.png",
         "label": "typography-international-light-medium",
@@ -482,16 +482,16 @@
             "height": -226
           },
           "misMatchPercentage": "10.91",
-          "analysisTime": 444
+          "analysisTime": 406
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_5_spectrum-CSSExample-example__n5_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_5_spectrum-CSSExample-example__n5_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n6",
         "fileName": "SpectrumCSS_typography-international-light-medium_6_spectrum-CSSExample-example__n6_0_test.png",
         "label": "typography-international-light-medium",
@@ -508,16 +508,16 @@
             "height": -50
           },
           "misMatchPercentage": "10.13",
-          "analysisTime": 350
+          "analysisTime": 390
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_6_spectrum-CSSExample-example__n6_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_6_spectrum-CSSExample-example__n6_0_test.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/SpectrumCSS_typography-international-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
-        "test": "../bitmaps_test/20200208-221954/SpectrumCSS_typography-international-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
+        "test": "../bitmaps_test/20200208-224526/SpectrumCSS_typography-international-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
         "selector": ".spectrum-CSSExample-example.__n7",
         "fileName": "SpectrumCSS_typography-international-light-medium_7_spectrum-CSSExample-example__n7_0_test.png",
         "label": "typography-international-light-medium",
@@ -534,9 +534,9 @@
             "height": -499
           },
           "misMatchPercentage": "2.13",
-          "analysisTime": 349
+          "analysisTime": 341
         },
-        "diffImage": "../bitmaps_test/20200208-221954/failed_diff_SpectrumCSS_typography-international-light-medium_7_spectrum-CSSExample-example__n7_0_test.png"
+        "diffImage": "../bitmaps_test/20200208-224526/failed_diff_SpectrumCSS_typography-international-light-medium_7_spectrum-CSSExample-example__n7_0_test.png"
       },
       "status": "fail"
     }
