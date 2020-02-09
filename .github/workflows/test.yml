@@ -3,7 +3,7 @@ name: Merge_Branch
 on: 
   create:
     branches: 
-      - '**_test_result'
+      - '*_test_result'
 
 jobs:
   build:
