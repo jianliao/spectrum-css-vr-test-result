@@ -1,9 +1,6 @@
 name: Merge_Branch
 
-on: 
-  create:
-    branches: 
-      - '*_test_result'
+on: create
 
 jobs:
   build:
