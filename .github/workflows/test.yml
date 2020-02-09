@@ -1,7 +1,7 @@
 name: Merge_Branch
 
 on: 
-  push:
+  create:
     branches: 
       - '**_test_result'
 
