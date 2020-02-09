@@ -1,6 +1,6 @@
 name: Merge_Branch
 
-on: create
+on: push
 
 jobs:
   build:
