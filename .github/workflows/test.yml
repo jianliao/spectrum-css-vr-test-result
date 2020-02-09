@@ -12,8 +12,8 @@ jobs:
       with:
           ref: gh-pages
     - name: Echo Branch Name
-      run: echo $GIT_REF
+      run: echo 123_test_result
     - name: Git Merge Branch
-      run: git merge $GIT_REF --allow-unrelated-histories --no-edit
+      run: git merge 123_test_result --allow-unrelated-histories --no-edit
     - name: Git Push gh-pages branch
       run: git push origin gh-pages
