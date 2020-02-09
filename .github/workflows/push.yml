@@ -13,7 +13,7 @@ jobs:
       with:
           ref: gh-pages
     - name: Echo Branch Name
-      run: echo 123_test_result
+      run: echo $GITHUB_REF !!!
     # - name: Git Merge Branch
     #   run: git merge origin/123_test_result --allow-unrelated-histories --no-edit
     # - name: Git Push gh-pages branch
