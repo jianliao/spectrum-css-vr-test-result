@@ -9,9 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-      with:
-          ref: gh-pages
+    - uses: jianliao/merge-gh-pages-branch@master
     - name: Echo Branch Name
       run: echo $GITHUB_REF !!!
     # - name: Git Merge Branch
