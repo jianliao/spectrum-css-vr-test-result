@@ -10,6 +10,8 @@ jobs:
 
     steps:
     - uses: jianliao/merge-gh-pages-branch@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Echo Branch Name
       run: echo $GITHUB_REF !!!!!!! Again
     # - name: Git Merge Branch
