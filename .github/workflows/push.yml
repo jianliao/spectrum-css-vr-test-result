@@ -9,11 +9,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: jianliao/merge-gh-pages-branch@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Echo Branch Name
-      run: echo $GITHUB_REF
+      - uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+      - uses: jianliao/merge-gh-pages-branch@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Echo Branch Name
+        run: echo $GITHUB_REF
     # - name: Git Merge Branch
     #   run: git merge origin/123_test_result --allow-unrelated-histories --no-edit
     # - name: Git Push gh-pages branch
