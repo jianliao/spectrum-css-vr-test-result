@@ -13,7 +13,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Echo Branch Name
-      run: echo $GITHUB_REF !!!!!!! Again
+      run: echo $GITHUB_REF !!!!!!! Again !!!
     # - name: Git Merge Branch
     #   run: git merge origin/123_test_result --allow-unrelated-histories --no-edit
     # - name: Git Push gh-pages branch
