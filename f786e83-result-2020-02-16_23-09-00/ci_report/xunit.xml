@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="BackstopJS" tests="6" failures="0" errors="0" skipped="0">
+    <testcase classname=".spectrum-CSSExample-example" name=" ›› alert-light-medium"/>
+    <testcase classname=".spectrum-CSSExample-example.__n1" name=" ›› alert-light-medium"/>
+    <testcase classname=".spectrum-CSSExample-example.__n2" name=" ›› alert-light-medium"/>
+    <testcase classname=".spectrum-CSSExample-example.__n3" name=" ›› alert-light-medium"/>
+    <testcase classname=".spectrum-CSSExample-example.__n4" name=" ›› alert-light-medium"/>
+    <testcase classname=".spectrum-CSSExample-example.__n5" name=" ›› alert-light-medium"/>
+  </testsuite>
+</testsuites>
